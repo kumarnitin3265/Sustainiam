@@ -1,0 +1,16 @@
+{
+  "name": "sustainiam",
+  "version": "1.0.0",
+  "description": "tic tac toe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "exprss": "^0.0.1-security",
+    "nodemon": "^3.1.7"
+  }
+}
